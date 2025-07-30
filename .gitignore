@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode config
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Model files
+*.pkl
+*.joblib
+
+# Environment files
+.env
+*.log
+
+
